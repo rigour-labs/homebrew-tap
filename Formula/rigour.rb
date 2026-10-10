@@ -1,8 +1,8 @@
 class Rigour < Formula
   desc "Rigour CLI quality gates for AI-generated code"
   homepage "https://github.com/rigour-labs/rigour"
-  url "https://registry.npmjs.org/@rigour-labs/cli/-/cli-6.12.3.tgz"
-  sha256 "1aa9bea2c592bc91ffd0b3a3d9744beb27627c27cc9bb14fe7379db9f18c390a"
+  url "https://registry.npmjs.org/@rigour-labs/cli/-/cli-6.12.4.tgz"
+  sha256 "3e85bd7330a5655252445de488a34e18d467781798831ef078932f9e20a41506"
   license "MIT"
 
   depends_on "node"
